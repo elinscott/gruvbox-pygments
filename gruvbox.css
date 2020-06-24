@@ -20,7 +20,7 @@
 .highlight .gr { color: #ebdbb2; font-weight: bold; background-color: #fb4934 } /* Generic.Error */
 .highlight .gh { color: #b8bb26; font-weight: bold; background-color: #282828 } /* Generic.Heading */
 .highlight .gi { color: #282828; background-color: #b8bb26 } /* Generic.Inserted */
-.highlight .go { color: #504945; background-color: #282828 } /* Generic.Output */
+.highlight .go { color: #282828; background-color: #282828 } /* Generic.Output */
 .highlight .gp { color: #ebdbb2; background-color: #282828 } /* Generic.Prompt */
 .highlight .gs { color: #ebdbb2; background-color: #282828 } /* Generic.Strong */
 .highlight .gu { color: #b8bb26; font-weight: bold; background-color: #282828 } /* Generic.Subheading */

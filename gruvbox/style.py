@@ -12,7 +12,7 @@
     https://github.com/honza/vim2pygments
 """
 from pygments.style import Style
-from pygments.token import Token, Comment, Name, Keyword, Generic, Number, Operator, String
+from pygments.token import Token, Comment, Name, Keyword, Generic, Number, Operator, String, Text
 
 class GruvboxStyle(Style):
     """ Retro groove color scheme for Vim by Github: @morhetz """
@@ -50,4 +50,5 @@ class GruvboxStyle(Style):
         String.Symbol:      '#83a598',
         String:             'noinherit #b8bb26',
         Token:              'noinherit #ebdbb2 bg:#282828',
+        Text:               'noinherit #ebdbb2 bg:#282828',
     }
